@@ -1,0 +1,15 @@
+- name: Open Contracting Portal
+  purpose: The Open Contracting Portal (OC Portal) is an open-source platform built to organize and archive procurement documents, improve data transparency and feedback by the public, and help publish procurement information in the Open Contracting Data Standard (OCDS)
+  category: Open Contracting
+  geography: Kenya
+  projectLink: https://devgateway.github.io/ocportal
+  sourceCodeLink: https://github.com/devgateway/ocportal
+  license: MIT
+
+- name: CKAN
+  purpose: CKAN is an Open Source Data Management System to build Data Portals. Trusted by hundreds of portals across the world and supported by an active community, it focuses on extensibility and integration with other tools.
+  category: Foundational Layer
+  geography: Worldwide
+  projectLink: https://ckan.org
+  sourceCodeLink: https://github.com/ckan/ckan
+  license: AGPL-3.0
