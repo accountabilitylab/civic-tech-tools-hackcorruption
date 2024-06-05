@@ -9,7 +9,8 @@ Currently, the repository is structured around five themes, including:
 1. [Foundational anti-corruption data and metadata management tools and code](Foundational),
 2. [Beneficial ownership](BeneficialOwnership),
 3. [Open contracting](OpenContracting),
-4. [Budget transparency and participatory budgeting](BudgetTransparency), and
-5. [Climate finance transparency](ClimateFinanceTransparency).
+4. [Budget transparency and participatory budgeting](BudgetTransparency), 
+5. [Climate finance transparency](ClimateFinanceTransparency); and
+6. Illicit financial flows.
 
 For more information about the HackCorruption project or this repository, please contact XX. 
