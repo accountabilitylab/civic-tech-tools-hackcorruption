@@ -4,7 +4,7 @@ This repository was initiated by Development Gateway: An IREX Venture and Accoun
 
 Moving forward, our hope is that the repository will become an open-source community asset and be of benefit and use to digital anti-corruption activists around the world.
 
-Currently, the repository is structured around five themes, including:
+Currently, the repository is structured around several themes, including:
 
 1. [Foundational anti-corruption data and metadata management tools and code](Foundational),
 2. [Beneficial ownership](BeneficialOwnership),
