@@ -13,4 +13,4 @@ Currently, the repository is structured around five themes, including:
 5. [Climate finance transparency](ClimateFinanceTransparency); and
 6. [Illicit financial flows](IllicitFinancialFlows).
 
-For more information about the HackCorruption project or this repository, please contact XX. 
+For more information about the HackCorruption project or this repository, please contact Mihai Postelnicu (mpostelnicu@developmentgateway.org). 
