@@ -11,6 +11,6 @@ Currently, the repository is structured around five themes, including:
 3. [Open contracting](OpenContracting),
 4. [Budget transparency and participatory budgeting](BudgetTransparency), 
 5. [Climate finance transparency](ClimateFinanceTransparency); and
-6. Illicit financial flows.
+6. [Illicit financial flows](IllicitFinancialFlows).
 
 For more information about the HackCorruption project or this repository, please contact XX. 
