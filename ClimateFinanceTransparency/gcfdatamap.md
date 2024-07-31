@@ -17,6 +17,6 @@ https://unfccc.int/climatefinance/gcf/gcf_data
 
 # Source Code
 
-https://unfccc.int/climatefinance/gcf/gcf_data
+
 
 # License
