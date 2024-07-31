@@ -16,6 +16,6 @@ https://data.greenclimate.fund/public
 
 # Source Code
 
-https://data.greenclimate.fund/public
+
 
 # License
