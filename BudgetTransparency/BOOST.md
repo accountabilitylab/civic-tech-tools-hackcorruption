@@ -4,7 +4,7 @@ BOOST Open Budget Portal
 
 # Purpose
 
-BOOST provides user-friendly platforms where all expenditure data can be easily accessed and used by researchers, government officials and ordinary citizens to examine trends in allocations of public resources, analyze potential sources of inefficiencies, and become better informed about how governments finance the delivery of public services.
+Launched in 2010 by the World Bank, BOOST provides user-friendly platforms where all expenditure data can be easily accessed and used by researchers, government officials and ordinary citizens to examine trends in allocations of public resources, analyze potential sources of inefficiencies, and become better informed about how governments finance the delivery of public services.
 
 # Geography
 
