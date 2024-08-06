@@ -8,5 +8,4 @@ In this section we can find tools related to open contracting and procurement tr
 - [SupportmySchool](SupportmySchool.md)
 - [KeyPing](KeyPing.md)
 - [CajaPública](CajaPública.md)
-
--[WatchOutForSanctions](WatchOutForSanctions.md)
+- [WatchOutForSanctions](WatchOutForSanctions.md)
