@@ -15,3 +15,4 @@ In this section we are listing tools are that part of the foundational layer, of
 - [OpenKnowledgeFoundation](okfn.md)
 - [Data.gov](Data.gov.md)
 - [Datawrapper](Datawrapper.md)
+- [Dataverse](Dataverse.md)
