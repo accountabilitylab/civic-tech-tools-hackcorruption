@@ -1,6 +1,6 @@
 # Name
 
-DataVerse
+Dataverse
 
 # Purpose
 
