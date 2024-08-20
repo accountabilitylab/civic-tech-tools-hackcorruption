@@ -6,6 +6,7 @@ In this section we are listing tools are that part of the foundational layer, of
 
 - [CKAN](ckan.md)
 - [CoVE](CoVE.md)
+- [DataPortals](DataPortals.md)
 - [InternationalAidTransparencyInitiative](InternationalAidTransparencyInitiative.md)
 - [UNDataCommonsSDGs](UNDataCommonsSDGs.md)
 
