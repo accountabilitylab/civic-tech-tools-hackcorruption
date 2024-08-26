@@ -13,4 +13,6 @@ Currently, the repository is structured around several themes, including:
 5. [Climate finance transparency](ClimateFinanceTransparency); and
 6. [Illicit financial flows](IllicitFinancialFlows).
 
+Check out [this project's wiki](https://github.com/devgateway/civic-tech-tools-hackcorruption/wiki) to find out how to contribute to our repository and other topics. 
+
 For more information about the HackCorruption project or this repository, please contact Mihai Postelnicu (mpostelnicu@developmentgateway.org). 
