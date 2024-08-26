@@ -6,3 +6,4 @@ Text regarding climate finance
 - [OpenClimate](OpenClimate.md)
 - [NationalClimateTransparencyTool](NationalClimateTransparencyTool.md)
 - [BlockchainCarbonAccounting](BlockchainCarbonAccounting.md)
+- [RockyMountainInstitute](RockyMountainInstitute.md)
