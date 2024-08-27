@@ -18,4 +18,5 @@ In this section we are listing tools are that part of the foundational layer, of
 - [Data.gov](Data.gov.md)
 - [Datawrapper](Datawrapper.md)
 - [Dataverse](Dataverse.md)
+- [Decidim](Decidim.md)
 - [OpenDataSoft](OpenDataSoft.md)
